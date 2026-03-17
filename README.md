@@ -1,2 +1,2 @@
-# yolo训练
+# yolo depthcar
 该仓库用于存储yolo训练的文件以及解释yolo训练的步骤
